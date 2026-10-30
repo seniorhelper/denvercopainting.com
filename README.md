@@ -1,2 +1,1 @@
-# denvercopainting.com
-denvercopainting.com
+Static site.
